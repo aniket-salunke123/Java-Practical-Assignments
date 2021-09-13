@@ -29,8 +29,6 @@ class Converter extends JFrame
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		setLayout(new GridLayout(5, 2));
-
-
 		// adding components to the frame
 		add(lblDec);
 		add(inputDec);
